@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D exploration | Representation and Learning Lab (ReaL)</title>
+    <link>https://liu.se/tag/3d-exploration/</link>
+      <atom:link href="https://liu.se/tag/3d-exploration/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D exploration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>3D exploration</title>
+      <link>https://liu.se/tag/3d-exploration/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments</title>
+      <link>https://liu.se/publication/selin-efficient-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/selin-efficient-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

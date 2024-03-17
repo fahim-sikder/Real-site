@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Bergström | Representation and Learning Lab (ReaL)</title>
+    <link>https://liu.se/author/david-bergstrom/</link>
+      <atom:link href="https://liu.se/author/david-bergstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Bergström</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 22:48:19 +0000</lastBuildDate>
+    <image>
+      <url>https://liu.se/author/david-bergstrom/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>David Bergström</title>
+      <link>https://liu.se/author/david-bergstrom/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian optimization for selecting training and validation data for supervised machine learning</title>
+      <link>https://liu.se/publication/bergstrom-bayesian-nodate/</link>
+      <pubDate>Fri, 08 Apr 2022 22:48:19 +0000</pubDate>
+      <guid>https://liu.se/publication/bergstrom-bayesian-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Lattice-based Motion Planning with Introspective Learning and Reasoning</title>
+      <link>https://liu.se/publication/tiger-enhancing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-enhancing-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

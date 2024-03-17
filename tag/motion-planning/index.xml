@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion planning | Representation and Learning Lab (ReaL)</title>
+    <link>https://liu.se/tag/motion-planning/</link>
+      <atom:link href="https://liu.se/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motion planning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Motion planning</title>
+      <link>https://liu.se/tag/motion-planning/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments</title>
+      <link>https://liu.se/publication/selin-efficient-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/selin-efficient-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding-Horizon Lattice-Based Motion Planning with Dynamic Obstacle Avoidance</title>
+      <link>https://liu.se/publication/andersson-receding-horizon-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/andersson-receding-horizon-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

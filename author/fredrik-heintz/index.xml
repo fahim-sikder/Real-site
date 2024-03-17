@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fredrik Heintz | Representation and Learning Lab (ReaL)</title>
+    <link>https://liu.se/author/fredrik-heintz/</link>
+      <atom:link href="https://liu.se/author/fredrik-heintz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fredrik Heintz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 22:48:20 +0000</lastBuildDate>
+    <image>
+      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fredrik Heintz</title>
+      <link>https://liu.se/author/fredrik-heintz/</link>
+    </image>
+    
+    <item>
+      <title>Online Sparse Gaussian Process Regression for Trajectory Modeling</title>
+      <link>https://liu.se/publication/tiger-online-nodate/</link>
+      <pubDate>Fri, 08 Apr 2022 22:48:20 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-online-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian optimization for selecting training and validation data for supervised machine learning</title>
+      <link>https://liu.se/publication/bergstrom-bayesian-nodate/</link>
+      <pubDate>Fri, 08 Apr 2022 22:48:19 +0000</pubDate>
+      <guid>https://liu.se/publication/bergstrom-bayesian-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Unsupervised Learning, Classiﬁcation and Prediction of Activities in a Stream-Based Framework</title>
+      <link>https://liu.se/publication/tiger-towards-nodate/</link>
+      <pubDate>Fri, 08 Apr 2022 22:48:18 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-towards-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Lattice-based Motion Planning with Introspective Learning and Reasoning</title>
+      <link>https://liu.se/publication/tiger-enhancing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-enhancing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental reasoning in probabilistic Signal Temporal Logic</title>
+      <link>https://liu.se/publication/tiger-incremental-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-incremental-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Autonomous Exploration Planning of Large-Scale 3-D Environments</title>
+      <link>https://liu.se/publication/selin-efficient-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/selin-efficient-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding-Horizon Lattice-Based Motion Planning with Dynamic Obstacle Avoidance</title>
+      <link>https://liu.se/publication/andersson-receding-horizon-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/andersson-receding-horizon-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Based Motion Pattern Recognition with Sequential Local Models</title>
+      <link>https://liu.se/publication/tiger-gaussian-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-gaussian-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream Reasoning Using Temporal Logic and Predictive Probabilistic State Models</title>
+      <link>https://liu.se/publication/tiger-stream-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/tiger-stream-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards learning and classifying spatio-temporal activities in a stream processing framework</title>
+      <link>https://liu.se/publication/endriss-towards-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liu.se/publication/endriss-towards-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
