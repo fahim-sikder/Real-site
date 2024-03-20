@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dennis Malmgren | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/author/dennis-malmgren/</link>
-      <atom:link href="https://liu.se/author/dennis-malmgren/index.xml" rel="self" type="application/rss+xml" />
+    <title>Dennis Malmgren | ReaL</title>
+    <link>https://real.fahimsikder.com/author/dennis-malmgren/</link>
+      <atom:link href="https://real.fahimsikder.com/author/dennis-malmgren/index.xml" rel="self" type="application/rss+xml" />
     <description>Dennis Malmgren</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://liu.se/author/dennis-malmgren/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://real.fahimsikder.com/author/dennis-malmgren/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dennis Malmgren</title>
-      <link>https://liu.se/author/dennis-malmgren/</link>
+      <link>https://real.fahimsikder.com/author/dennis-malmgren/</link>
     </image>
     
   </channel>

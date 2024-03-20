@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andreas Norrstig | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/author/andreas-norrstig/</link>
-      <atom:link href="https://liu.se/author/andreas-norrstig/index.xml" rel="self" type="application/rss+xml" />
+    <title>Andreas Norrstig | ReaL</title>
+    <link>https://real.fahimsikder.com/author/andreas-norrstig/</link>
+      <atom:link href="https://real.fahimsikder.com/author/andreas-norrstig/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas Norrstig</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://real.fahimsikder.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Andreas Norrstig</title>
-      <link>https://liu.se/author/andreas-norrstig/</link>
+      <link>https://real.fahimsikder.com/author/andreas-norrstig/</link>
     </image>
     
     <item>
       <title>Enhancing Lattice-based Motion Planning with Introspective Learning and Reasoning</title>
-      <link>https://liu.se/publication/tiger-enhancing-2021/</link>
+      <link>https://real.fahimsikder.com/publication/tiger-enhancing-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://liu.se/publication/tiger-enhancing-2021/</guid>
+      <guid>https://real.fahimsikder.com/publication/tiger-enhancing-2021/</guid>
       <description></description>
     </item>
     

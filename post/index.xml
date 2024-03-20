@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/post/</link>
-      <atom:link href="https://liu.se/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Latest News | ReaL</title>
+    <link>https://real.fahimsikder.com/post/</link>
+      <atom:link href="https://real.fahimsikder.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 23:56:17 +0200</lastBuildDate>
     <image>
-      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://real.fahimsikder.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://liu.se/post/</link>
+      <link>https://real.fahimsikder.com/post/</link>
     </image>
     
     <item>
       <title>WASP ED to make Swedish universities leading in AI</title>
-      <link>https://liu.se/post/wasp-ed-to-make/</link>
+      <link>https://real.fahimsikder.com/post/wasp-ed-to-make/</link>
       <pubDate>Fri, 08 Apr 2022 23:56:17 +0200</pubDate>
-      <guid>https://liu.se/post/wasp-ed-to-make/</guid>
+      <guid>https://real.fahimsikder.com/post/wasp-ed-to-make/</guid>
       <description>&lt;h2 id=&#34;ai-revolution&#34;&gt;AI revolution&lt;/h2&gt;
 &lt;p&gt;In the world of research, artificial intelligence is often described as the new industrial revolution. It covers everything from voice control and computer vision to robots working together, self-driving cars, advanced visualisation and interaction, and more. LiU has for several years been host to a number of AI-related research projects, including the research programme WASP, which stands for Wallenberg AI, Autonomous Systems and Software Program. The programme is the biggest ever of its kind in Sweden.&lt;/p&gt;
 &lt;p&gt;In December 2021, it was announced that W TMS Therapy is ‘Promising’ for Alcohol Treatment ASP, together with its humanities and social sciences-focussed sister programme WASP-HS, had received funds worth SEK 18.6 million from the Marcus and Marianne Wallenberg Foundation. The funds are to be used to start WASP-ED. The aim of WASP-ED is to significantly increase the ability and capacity of Swedish universities to provide modern and relevant education in AI.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Sweden’s broadest range of AI courses is at LiU</title>
-      <link>https://liu.se/post/sweden-broadest-range-ai/</link>
+      <link>https://real.fahimsikder.com/post/sweden-broadest-range-ai/</link>
       <pubDate>Fri, 08 Apr 2022 23:53:26 +0200</pubDate>
-      <guid>https://liu.se/post/sweden-broadest-range-ai/</guid>
+      <guid>https://real.fahimsikder.com/post/sweden-broadest-range-ai/</guid>
       <description>&lt;p&gt;Fredrik Heintz is one of Sweden’s leading AI researchers. He is also extremely active in spreading knowledge about artificial intelligence to the general public, where one of his initiatives is his introductory course in AI: “Grunderna i AI”.&lt;/p&gt;
 &lt;p&gt;“Everybody’s talking about AI, but not many people really understand what it’s about. There’s an obvious knowledge gap. AI already affects large parts of society, and its effects will probably increase”, says Fredrik Heintz.&lt;/p&gt;
 &lt;p&gt;Examples of the application of AI that are already commonplace are voice control, machine translation, and internet search engines.&lt;/p&gt;

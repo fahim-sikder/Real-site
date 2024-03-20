@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oskar Ljungqvist | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/author/oskar-ljungqvist/</link>
-      <atom:link href="https://liu.se/author/oskar-ljungqvist/index.xml" rel="self" type="application/rss+xml" />
+    <title>Oskar Ljungqvist | ReaL</title>
+    <link>https://real.fahimsikder.com/author/oskar-ljungqvist/</link>
+      <atom:link href="https://real.fahimsikder.com/author/oskar-ljungqvist/index.xml" rel="self" type="application/rss+xml" />
     <description>Oskar Ljungqvist</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://real.fahimsikder.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Oskar Ljungqvist</title>
-      <link>https://liu.se/author/oskar-ljungqvist/</link>
+      <link>https://real.fahimsikder.com/author/oskar-ljungqvist/</link>
     </image>
     
     <item>
       <title>Receding-Horizon Lattice-Based Motion Planning with Dynamic Obstacle Avoidance</title>
-      <link>https://liu.se/publication/andersson-receding-horizon-2018/</link>
+      <link>https://real.fahimsikder.com/publication/andersson-receding-horizon-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liu.se/publication/andersson-receding-horizon-2018/</guid>
+      <guid>https://real.fahimsikder.com/publication/andersson-receding-horizon-2018/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | ReaL</title>
+    <link>https://real.fahimsikder.com/project/</link>
+      <atom:link href="https://real.fahimsikder.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 23:01:46 +0100</lastBuildDate>
+    <image>
+      <url>https://real.fahimsikder.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://real.fahimsikder.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Fair Generative Models</title>
+      <link>https://real.fahimsikder.com/project/fair-generative-models/</link>
+      <pubDate>Wed, 20 Mar 2024 23:01:46 +0100</pubDate>
+      <guid>https://real.fahimsikder.com/project/fair-generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TruestLLM</title>
+      <link>https://real.fahimsikder.com/project/my-project-name/</link>
+      <pubDate>Wed, 20 Mar 2024 22:53:03 +0100</pubDate>
+      <guid>https://real.fahimsikder.com/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

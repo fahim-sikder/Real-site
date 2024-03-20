@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Md Fahim Sikder | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/author/md-fahim-sikder/</link>
-      <atom:link href="https://liu.se/author/md-fahim-sikder/index.xml" rel="self" type="application/rss+xml" />
+    <title>Md Fahim Sikder | ReaL</title>
+    <link>https://real.fahimsikder.com/author/md-fahim-sikder/</link>
+      <atom:link href="https://real.fahimsikder.com/author/md-fahim-sikder/index.xml" rel="self" type="application/rss+xml" />
     <description>Md Fahim Sikder</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://liu.se/author/md-fahim-sikder/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://real.fahimsikder.com/author/md-fahim-sikder/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Md Fahim Sikder</title>
-      <link>https://liu.se/author/md-fahim-sikder/</link>
+      <link>https://real.fahimsikder.com/author/md-fahim-sikder/</link>
     </image>
     
   </channel>

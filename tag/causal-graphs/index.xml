@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Causal graphs | Representation and Learning Lab (ReaL)</title>
-    <link>https://liu.se/tag/causal-graphs/</link>
-      <atom:link href="https://liu.se/tag/causal-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <title>Causal graphs | ReaL</title>
+    <link>https://real.fahimsikder.com/tag/causal-graphs/</link>
+      <atom:link href="https://real.fahimsikder.com/tag/causal-graphs/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal graphs</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 22:48:18 +0000</lastBuildDate>
     <image>
-      <url>https://liu.se/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://real.fahimsikder.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Causal graphs</title>
-      <link>https://liu.se/tag/causal-graphs/</link>
+      <link>https://real.fahimsikder.com/tag/causal-graphs/</link>
     </image>
     
     <item>
       <title>Towards Unsupervised Learning, Classiﬁcation and Prediction of Activities in a Stream-Based Framework</title>
-      <link>https://liu.se/publication/tiger-towards-nodate/</link>
+      <link>https://real.fahimsikder.com/publication/tiger-towards-nodate/</link>
       <pubDate>Fri, 08 Apr 2022 22:48:18 +0000</pubDate>
-      <guid>https://liu.se/publication/tiger-towards-nodate/</guid>
+      <guid>https://real.fahimsikder.com/publication/tiger-towards-nodate/</guid>
       <description></description>
     </item>
     
